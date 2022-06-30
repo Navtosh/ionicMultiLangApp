@@ -1,0 +1,7 @@
+{
+  "name": "MultiLang",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
